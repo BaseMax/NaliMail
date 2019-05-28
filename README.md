@@ -6,7 +6,6 @@ NaliMail is a free service to manage email web-based client.
 
 ## Logo
 
-
 ![Logo](asset/logo1.jpg)
 
 ![Logo](asset/logo2.jpg)
